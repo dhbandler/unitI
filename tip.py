@@ -2,6 +2,6 @@
 #1/17/18
 #tip.py, calculates tip for meal
 
-price=int(input("How much did your meal cost?"))
-print(price*.15)
+price=float(input("How much did your meal cost?   "))
 
+print("Your tip is", price*.15, "dollars")
