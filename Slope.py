@@ -11,4 +11,6 @@ y2=float(input("Input second y value "))
 rise=(y2-y1)
 run=(x2-x1)
 
-print(rise/run)
+slope=rise/run
+print("The slope is", slope)
+print("An equation for the line could be  ", slope, "x+", slope)
