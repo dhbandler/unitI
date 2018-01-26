@@ -1,6 +1,6 @@
 #Daniel
 #1/26/18
-#quiz1.py Is the first quiz we have on unit 1
+#quiz1.py Is the first quiz we have on unit 1, Does name shenanigans and finds lucky number
 
 print("Hello!")
 
